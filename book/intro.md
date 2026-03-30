@@ -9,23 +9,44 @@ This book can be used as a template for other books. It includes a starter packa
 
 There should be a carousel below
 
-::::{card-carousel} 5
+::::{card-carousel} 2
 
 :::{card} An IP address
-:img-bottom: _static/Book-icon-wikimedia commons.jpg
+:img-bottom: _static/Book-icon-wikimedia_commons.jpg
 :::
 :::{card} A patient's heart rate 
-:img-bottom: _static/Book-icon-wikimedia commons.jpg
+:img-bottom: _static/Book-icon-wikimedia_commons.jpg
 :::
 :::{card} A social media post 
-:img-bottom: _static/Book-icon-wikimedia commons.jpg
+:img-bottom: _static/Book-icon-wikimedia_commons.jpg
 :::
 :::{card} An online review of a restaurant 
-:img-bottom: _static/Book-icon-wikimedia commons.jpg
+:img-bottom: _static/Book-icon-wikimedia_commons.jpg
 :::
 :::{card} Raw transcripts from an interview 
-:img-bottom: _static/Book-icon-wikimedia commons.jpg
+:img-bottom: _static/Book-icon-wikimedia_commons.jpg
 ::::
+
+::::{card-carousel} 2
+:margin: 4
+
+:::{card} An IP address
+:img-bottom: _static/Book-icon-wikimedia_commons.jpg
+:::
+:::{card} A patient's heart rate 
+:img-bottom: _static/Book-icon-wikimedia_commons.jpg
+:::
+:::{card} A social media post 
+:padding: 10
+:img-bottom: _static/Book-icon-wikimedia_commons.jpg
+:::
+:::{card} An online review of a restaurant 
+:img-bottom: _static/Book-icon-wikimedia_commons.jpg
+:::
+:::{card} Raw transcripts from an interview 
+:img-bottom: _static/Book-icon-wikimedia_commons.jpg
+::::
+
 
 
 ```{admonition} Flowchart Viewing Tip
