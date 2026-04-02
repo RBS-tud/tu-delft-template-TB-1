@@ -8,6 +8,8 @@ We now have another page. This is section 1 where I type random words for you to
 
 We now have another page. This is section 1 where I type random words for you to seeWe now have another page. This is section 1 where I type random words for you to seeWe now have another page. This is section 1 where I type random words for you to see
 
+> and here is a quote
+
 ## Section 2 of 2
 
 Another section just to make more of this page
